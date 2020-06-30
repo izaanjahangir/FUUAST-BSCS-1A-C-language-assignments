@@ -1,0 +1,2 @@
+Assignment: Write a program that takes two integer values as input (therefore declare two integer variables). Get input in those variables using scanf function. Finally using if (condition) else if (condition) else statement check if the value is greater than 0 and less than 10, secondly if value is greater than 10 and less than 50 and finally printing that the value is greater than even 50.
+Use the logical connectives: >, <, >=, <= and !=
