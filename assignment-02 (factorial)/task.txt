@@ -1,0 +1,11 @@
+Assignment 2: (10 marks)
+
+Write three programs to calculate the factorial of a number entered from the keyboard using scanf() function. 
+Check if the value is less than zero than prompt a statement that the "Output is obvious and meaningless". Else 
+If the input is greater than 0 and less than 100 than perform the factorial. Else print a statement that "the 
+number is too big".
+a. Use For loop for this program.
+b. Next use While loop  for this program.
+c. Finally use do-while loop for this program.
+
+DUE DATE OF ASSIGNMENTS IS 01/07/2020
